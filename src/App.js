@@ -21,7 +21,7 @@ class App extends Component {
   render(){
     return( 
       <div>
-        <nav className="navbar navbar-light bg-light">
+        <nav className="navbar navbar-light bg-light" >
           <div>
             <button onClick = {this.filterBackEnd}type="button" className="btn btn-outline-secondary"> Filter Back End</button>
             <button onClick = {this.filterFrontEnd} type="button" className="btn btn-outline-secondary"> Filter Front End</button>
