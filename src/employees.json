@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "name": "Tom",
+      "occupation": "Front End Developer",
+      "hobbies": "Snowboarding"
+    },
+    {
+      "id": 2,
+      "name": "Sam",
+      "occupation": "Back End Developer",
+      "hobbies": "Tennis"
+    },
+    {
+      "id": 2,
+      "name": "Grey",
+      "occupation": "Back End Developer",
+      "hobbies": "Soccer"
+    },
+    {
+      "id": 4,
+      "name": "Nathan",
+      "occupation": "HR",
+      "hobbies": "Gym"
+    },
+    {
+      "id": 5,
+      "name": "Chris",
+      "occupation": "Assistant",
+      "hobbies": "Travelling"
+    }
+  ]
+  
